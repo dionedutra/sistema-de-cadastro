@@ -5,5 +5,5 @@
 Para rodar esse projeto é nessario instalar o seguinte comando:
 
 ```
-npm install react
+node aoo.js
 ```
