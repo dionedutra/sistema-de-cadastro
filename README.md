@@ -5,5 +5,5 @@
 Para rodar esse projeto é nessario instalar o seguinte comando:
 
 ```
-node aoo.js
+node app.js
 ```
